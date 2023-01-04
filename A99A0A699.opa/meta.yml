@@ -1,0 +1,20 @@
+id: A99A0A699
+title: 'The Jewelled Garland: An Aspiration for the Spread of the Teachings of the
+  Omniscient Father and Son, Masters of the Teachings of the Ancient Translations'
+type: translation
+pechas:
+- I2A87124F
+- I797C1151
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:29:33.564969
+  last_modified_at: 2023-01-04 11:29:33.564979
+  collections:
+  - Amdo Geshe Jampal Rolwé Lodrö
+  - Works of Tibetan Masters
+alignment_to_base:
+  I2A87124F/ED8E: 564D
+  I797C1151/BCE3: 564D
